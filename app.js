@@ -1,4 +1,4 @@
-document,addEventListener('DOMContentLoaded', () => {
+document.addEventListener('DOMContentLoaded', () => {
   
   const names = document.querySelectorAll('h2');
 

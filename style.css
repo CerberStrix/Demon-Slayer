@@ -69,19 +69,19 @@ h2 span {
 }
 
 #tanjiro {
-  background-image: url(/img/tanjiro.png);
+  background-image: url(img/tanjiro.png);
 }
 
 #zenuko {
-  background-image: url(/img/zenuko.webp);
+  background-image: url(img/zenuko.webp);
 }
 
 #inosuke {
-  background-image: url(/img/inosuke.webp);
+  background-image: url(img/inosuke.png);
 }
 
 #zenitsu {
-  background-image: url(/img/zenitsu.png);
+  background-image: url(img/zenitsu.png);
 }
 
 .particles {
